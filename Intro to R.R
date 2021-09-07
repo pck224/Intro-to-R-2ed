@@ -7,8 +7,3 @@
 # 
 # In fact, you can put comments anywhere on a line as long as 
 # you put "#" before them.
-
-# Assignment Examples
-# Numeric
-x = 7
-y <- 8
